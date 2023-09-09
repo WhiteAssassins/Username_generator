@@ -1,0 +1,14 @@
+{
+    "nombre": "Generador de Nombres de Usuario",
+    "descripcion": "Una aplicación web para generar nombres de usuario a partir de un nombre ingresado.",
+    "fecha_creacion": "2023-09-10",
+    "version": "1.0",
+    "fecha_ultima_actualizacion": "2023-09-10",
+    "herramientas_utilizadas": ["HTML", "CSS", "JavaScript"],
+    "creador": "WhiteAssassins",
+    "lenguaje": "JavaScript",
+    "categorias": ["Herramientas", "Generación de Nombres"],
+    "etiquetas": ["Web", "Generador de Nombres", "JavaScript", "CSS", "HTML"],
+    "licencia": "Licencia MIT",
+    "estado": "Completado"
+}

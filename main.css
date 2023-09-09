@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('night.avif');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Aumenta el tamaño de la tarjeta */
+.transparent-card {
+    width: 400px;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
